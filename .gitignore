@@ -1,5 +1,6 @@
 # Raw data — never commit
 data/raw/
+en.openfoodfacts.org.products.csv
 
 # Python
 __pycache__/
